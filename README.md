@@ -39,7 +39,7 @@ Terraform Bootcamp to learn in and out of terraform IAAC tool
 <br><br>
 
 ## Variables
-
+<br>
 <ul>
   <li>Move secrets to another file</li>
   <li>Values that change 
@@ -51,6 +51,19 @@ Terraform Bootcamp to learn in and out of terraform IAAC tool
 </ul>
 <br><br>
 
+## Provisioning
+<br>
+<ul>
+<li>Build custom images with tools like packer</li>
+<li> Use standard image and use provisioner to set up software and files.
+<ul>
+  <li>File uploads</li>
+  <li>remote_exec</li>
+  <li>Ansible, Puppet or Chef</li>
+</ul>
+</li>
+</ul>
+
 ## Exercises
 
 ## Exercise - 1
@@ -60,7 +73,7 @@ Terraform Bootcamp to learn in and out of terraform IAAC tool
 </ul>
 <br>
 
-## Exercise -2
+## Exercise - 2
 <br>
 <ul>
   <li>Write providers.tf file</li>
@@ -69,4 +82,16 @@ Terraform Bootcamp to learn in and out of terraform IAAC tool
   <li>Apply changes</li>
   <li>Make some changes to instance.tf file</li>
   <li>Apply changes.</li>
+</ul>
+<br>
+
+## Exercise - 3
+<br>
+<ul>
+  <li>Generate key pair</li>
+  <li>Write script</li>
+  <li>Write providers.tf</li>
+  <li>Write vars.tf</li>
+  <li>Write Instances.tf</li>
+  <li>Apply Changes.</li>
 </ul>
