@@ -37,6 +37,7 @@ Terraform Bootcamp to learn in and out of terraform IAAC tool
   <li>Store binary in exported path e.g. Linux => /usr/local/bin</li>
 </ul>
 <br><br>
+
 ## Exercises
 
 <ul>
