@@ -63,6 +63,20 @@ Terraform Bootcamp to learn in and out of terraform IAAC tool
 </ul>
 </li>
 </ul>
+<br>
+
+## Output Information
+<br>
+<ul>
+<li>Terraform stores returned value of all resources created.
+<ul>
+<li>E.g aws_instance resource has the attribute public_ip</li>
+</ul>
+</li>
+<li>Use the output block to print these attributes.</li>
+<li>Local-exec to save info to a file</li>
+</ul>
+<br>
 
 ## Exercises
 
