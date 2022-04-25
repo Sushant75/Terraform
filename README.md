@@ -1,9 +1,9 @@
 # Terraform
 Terraform Bootcamp to learn in and out of terraform IAAC tool
-##
+<br>
 
 ## Introduction
-##
+<br>
 
 <ul>
   <li>Infrastructure As a Code (IAAC)</li>
@@ -24,7 +24,7 @@ Terraform Bootcamp to learn in and out of terraform IAAC tool
 
 
 ## Installation
-##
+<br>
 
 <ul>
   <li>Download terraform binary from its website
