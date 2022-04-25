@@ -38,8 +38,35 @@ Terraform Bootcamp to learn in and out of terraform IAAC tool
 </ul>
 <br><br>
 
-## Exercises
+## Variables
 
 <ul>
+  <li>Move secrets to another file</li>
+  <li>Values that change 
+    <ul>
+      <li>AMI, tags, keypair etc.</li>
+    </ul>
+  </li>
+  <li>Reuse your code</li>
+</ul>
+<br><br>
+
+## Exercises
+
+## Exercise - 1
+<br>
+<ul>
   <li>Exercise -1 : Launch an EC2 Instance</li>
+</ul>
+<br>
+
+## Exercise -2
+<br>
+<ul>
+  <li>Write providers.tf file</li>
+  <li>Write vars.tf file</li>
+  <li>Write instance.tf file</li>
+  <li>Apply changes</li>
+  <li>Make some changes to instance.tf file</li>
+  <li>Apply changes.</li>
 </ul>

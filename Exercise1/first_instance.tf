@@ -8,7 +8,7 @@ resource "aws_instance" "intro" {
   ami                    = "ami-03657b56516ab7912"
   instance_type          = "t2.micro"
   availability_zone      = "us-east-2a"
-  key_name               = "dove-key"
+  key_name               = "DevOps"
   vpc_security_group_ids = ["sg-0780815f55104be8a"]
   tags = {
     Name    = "Dove-Instance"
